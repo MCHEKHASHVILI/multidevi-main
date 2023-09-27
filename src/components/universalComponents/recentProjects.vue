@@ -18,7 +18,7 @@ onMounted(()=> getProjects())
       </div>
     </div>
       <a href="/our-work">
-        <transparent-button text="View All Projects" arrow/>
+        <transparent-button text="View All Projects" arrow />
       </a>
   </section>
 </template>
