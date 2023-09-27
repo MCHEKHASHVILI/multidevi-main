@@ -9,6 +9,5 @@ import LastPart from "@/components/homePageComponents/lastPart.vue";
     <introduction-part/>
     <splide-part/>
     <last-part/>
-
   </mainLayout>
 </template>
